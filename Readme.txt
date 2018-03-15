@@ -1,8 +1,8 @@
 Name of the Program: Date Extraction
 Author: Ginny Lee
-Description: recognizes simple date expressions like: “January 15, 2014", "the 21st of December", "01/15/2014" (only the American notation), "Monday", "Monday the 23rd", “Christmas", "Labor Day". This program will extract the longest expression of dates written. So if the date is "Feb. 15th, 2018", it will generate as it is. 
 Language (version): Python 3.6.3 with GCC 4.2.1. Compatible Clang 4.0.1
 
+** This problem is  derived from one of the problems from Speech and Language Processing authored by Daniel Jurafsky and James H. Martin, international version, second edition: "Design an FSA that recognizes simple date expressions like March 15, the 22nd of November, Christmas. You should try to include all such "absolute" dates (e.g., not "deictic" ones relative to the current day, like the day before yesterday)."
 
 Steps to take: 
 1) To avoid a hassle of installing packages, I would like you to go on to any browser (Internet Explorer, Google Chrome, Firefox, Safari, etc.)
